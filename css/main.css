@@ -1,3 +1,26 @@
 body {
-    background-color: rgb(71, 109, 139)
+    background-color: rgb(85, 176, 204);
+}
+
+.container {
+    background-color: bisque;
+    margin: 10%;
+}
+
+footer {
+    background-color: tomato;
+}
+
+.flex-container {
+    display: flex;
+    display: -webkit-flex; /* guarantees browser compatibility */
+    width: 100%;
+}
+
+.flex-section {
+
+}
+
+.flex-item {
+    margin: 1em;
 }
