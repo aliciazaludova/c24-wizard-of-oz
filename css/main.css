@@ -9,6 +9,8 @@ body {
 
 footer {
     background-color: tomato;
+    color: lightgreen;
+    text-align: center;
 }
 
 .flex-container {
